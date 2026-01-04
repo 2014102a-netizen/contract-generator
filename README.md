@@ -20,19 +20,31 @@
 Структура проекта
 
 contract-generator/
+
 file_handler.py          # Работа с файлами
+
 data_validator.py        # Валидация данных
+
 contract_generator.py    # Генерация договоров (класс Contract)
+
 main_console.py          # Консольный интерфейс
+
 main_gui.py              # Графический интерфейс
+
 templates/               # Шаблоны договоров
+
 договор_подряда.txt
+
 договор_услуг.txt
+
 Установка и запуск
 
 Требования
+
 Python 3.8+
+
 Запуск консольной версии
+
 терминал:
 python main_console.py
 Запуск GUI версии
