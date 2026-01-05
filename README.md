@@ -71,6 +71,21 @@ python main_console.py (запуск консольной версии)
 
 (смотри подробное видео процесса https://drive.google.com/file/d/1xLwSZN-GQ5dr15g8ZiRTRbpaqV36IkWh/view?usp=drive_link )
 
+Скриншоты работы программы
+
+Запуск программы
+(screenshots/Запуск_программы.png)
+
+Шаг 1: Основные данные договора
+(screenshots/Шаг_1_Договор_подряд.png)
+
+Шаг 2: Данные заказчика
+(screenshots/Шаг_2_Договор_подряд.png)
+
+Шаг 3: Работы и стоимость
+(screenshots/Шаг_3_Договор_подряд.png)
+
+
 Требования
 
 Python 3.8+
