@@ -69,7 +69,7 @@ templates/               # Шаблоны договоров
 python main_gui.py (запуск графической версии) 
 python main_console.py (запуск консольной версии)
 
-(смотри подробное видео процесса)
+(смотри подробное видео процесса https://drive.google.com/file/d/1xLwSZN-GQ5dr15g8ZiRTRbpaqV36IkWh/view?usp=drive_link )
 
 Требования
 
