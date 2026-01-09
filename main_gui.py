@@ -19,7 +19,7 @@ from file_handler import save_contract, append_to_history
 from data_validator import validate_inn, validate_date, validate_sum, validate_contract_number
 
 
-# Маппинг полей Николая на наши поля
+# Маппинг полей в связи с тем, что Андрей использовал другие названия , нашел этот метод и предложил использовать, вметсо того чтобы просто перименовать.
 FIELD_MAPPING = {
     'contract_number': 'contract_number',
     'contract_date': 'contract_date',
@@ -406,7 +406,7 @@ class ContractApp:
             
             self.contract_data[field_name] = value
         
-        # Конвертируем поля Николая в наши
+        # Конвертируем поля
         converted_data = {}
         for nik_field, value in self.contract_data.items():
             our_field = FIELD_MAPPING.get(nik_field, nik_field)
@@ -433,7 +433,7 @@ class ContractApp:
             # История
             append_to_history(converted_data)
             
-            # Успех!
+            # Готов 
             messagebox.showinfo(
                 "Готово!",
                 f"Договор успешно создан!\n\nСохранён: {filepath}"
