@@ -50,10 +50,11 @@ templates/               # Шаблоны договоров
 
 Распаковать 
 ЗАПУСК:
-1. Дважды кликнуть по файлу "Генератор_Договоров.exe" (если появляется предупреждение, отключить файервол(защитник windows) (https://drive.google.com/file/d/12pKn6iICsaBwqIHAdS_VIBwpZUYOr_z0/view?usp=drive_link)
-2. Выбрать тип договора
-3. Заполнить форму
-4. Готовый договор появится в папке "output"
+1. Дважды кликнуть по файлу "Генератор_Договоров.exe" - видео инструкция запуска exe файл (https://drive.google.com/file/d/19_fJdOhdmgLsVIUkuP_H6CKw6ylZxUOz/view?usp=drive_link)
+(если появляется предупреждение, отключить файервол(защитник windows) (https://drive.google.com/file/d/12pKn6iICsaBwqIHAdS_VIBwpZUYOr_z0/view?usp=drive_link)
+3. Выбрать тип договора
+4. Заполнить форму
+5. Готовый договор появится в папке "output"
 
 ТРЕБОВАНИЯ:
 - Windows 7 и выше
