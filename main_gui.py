@@ -221,7 +221,7 @@ class ContractApp:
 
 		# Поля ввода
 		fields = [
-			('Название заказчика:', 'customer_name'),
+			('Название организации:', 'customer_name'),
 			('ФИО директора:', 'customer_director'),
 			('ИНН:', 'customer_inn'),
 			('КПП:', 'customer_kpp'),
