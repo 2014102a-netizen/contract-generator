@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 # main_gui.py
 # Графический интерфейс генератора договоров
-# Авторы: Николай Кравченко, Андрей Минеев, Дмитрий Сокол
-
 import tkinter as tk
 from tkinter import messagebox, ttk
 from contract_generator import Contract
