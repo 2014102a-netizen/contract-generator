@@ -1,7 +1,5 @@
 # contract_generator.py
-# Автор: Дмитрий Сокол
 # Класс Contract для генерации договоров
-
 # Все обязательные поля договора
 UNIVERSAL_FIELDS = [
     'contract_number',
